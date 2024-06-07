@@ -1,75 +1,13 @@
--## 🏆 POKETWO SPAMMER 🏆
-**A Poketwo 24/7 Spawn Bot**!
+A Rust game assistant program can include various features such as maps, resource information, base planning tools, and a progress tracking system. Here is an example of a description of such a program:
 
-**its completely antiban! and safe to use**
+Rust Assistant: Your Navigator in the Survival World
 
-**it can be used for any Pokemon Bot**
+Rust Assistant is a complete solution for Rust players looking to optimize their gameplay. With this program, you can easily find resources, plan and build your infrastructure, and carry your progress and statistics.
 
-**Ninja.69 Is Not Taking Responsibility Of Id Suspended Or Anything Im Suggesting To Use in alt always**
+Main features:
 
-![welcome to our](https://github.com/Ninja-bruh69/All-In-One-Discord-Bot/assets/130167556/c90149b9-48e6-4103-8457-c9fe6b56374b)
+World Map: A detailed interactive map showing resource locations, airdrop locations, and radiation zones.
 
+Base Planner: A tool for pre-planning your base structure, allowing you to save resources and time. Progress Tracker: A system for monitoring your in-game development, including achievements and statistics.
 
-### Fork Latest version on replit [Run this Project In Replit.in](### Fork Latest version on replit [Run this Project In Replit.in](https://replit.com/@DNPAdil/POKETWO-SPAMMER-247-SPAWNING?v=1)
-)
-
-
-
-**credits: Ninja-69**
-
-
-**help?**
-
-**dm me on discord**
-
-**username - ninja.69#0000**
-
-
-[SUPPORTSRV](https://dsc.gg/itzmeninja)
-
----
-
-### Features
-The bot has the following features:
-- 💖 Get 24/7 SPAWNING Pokeamon
-- ⭐ Star Us On Github
-- 🗿 Can Be Used In Any Pokeamon Bot
-### Getting Started:
-To start up the bot on replit, go to the 'Secrets' tab on replit (the lock icon) and in the 'key' area, write `TOKEN`, and then type in your discord account token in the 'value' section. <br>
-
-**Secrets you have to put**:
-
-`token` ~~-->~~ The token of the user you want to Spam\
-
-**Other Things you have to change:**\
-Prefix ~~-->~~ You can change the prefix of the commands of the bot by changing it from config.json
-Pokeamon Spawn Channel Id ~~-->~~ in config.json
-owner id ~~-->~~ config.json
-spam channel id ~~-->~~ config.json
-
-
-
-
-**Commands:**\
-`{prefix}help` - To Get All List Of of Commands
-
-**warnings**
-(REMEMBER THIS IS SELF BOT SO YOU HAVE TO GIVE YOUR ID TOKEN , NOT BOT TOKEN , ALSO USE AN ALT! TRANSFER COINS , Also If You Got Problem like Port Already Use or Any Ports Problem , go to `keep_alive.js` Line 8 Change Port To Any Random 4 digit numbers
-ff
-#### <b>Running</b>
-Once you have installed the correct dependencies, click the green 'Run' icon at the top of your webpage. If a new window opens up with 'Bot logged on' written inside, and `Logged into account: <account name>` has appeared into your console, then the bot has successfully started.
-
-> feel free to dm me on discord
-> username - ninja.69#0000
-> We recommend using Uptime Robot for 24/7 Spams
->
-
-
-> 
----
-
-## **DISCLAIMER**
-
-Please note that self botting is against Discord's Terms of Service and being discovered using a self bot may result in your account being banned. To avoid this, keep knowledge of your self bot to a minimum and use a throwaway account. I am not responsible for any accounts lost due to the self bot. I also recommend checking the self bot channel's Message . **If it has, it would be a good idea to solve it.**
-
----
+Rust Assistant will help you become a more effective and successful Rust player. Download the program today and start your journey to the heights of survival!
